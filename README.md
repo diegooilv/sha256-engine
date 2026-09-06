@@ -218,5 +218,7 @@ Explorar conceitos relacionados, como HMAC, SHA-224, Merkle Trees, Proof of Work
 
 ## Resultado esperado
  
+
+ 
 Ao final deste projeto, a ideia é ter uma implementação completa do SHA-256 escrita do zero, entendendo cada operação realizada pelo algoritmo, desde a conversão da mensagem até a geração do hash final.
 
